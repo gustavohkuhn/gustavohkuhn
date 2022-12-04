@@ -51,6 +51,12 @@
 <a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gustavo%20Kuhn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+<a href="mailto:gustavohk.dev@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gustavo%20Kuhn-05122A?style=flat&logo=gmail" alt="linkedin"/>
+</a>
+<a href="https://api.whatsapp.com/send?phone=5548920006055&text=Ol%C3%A1,%20tudo%20bem?%20Peguei%20seu%20contato%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA." target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gustavo%20Kuhn-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
+</a>
 <a href="https://instagram.com/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Gustavo%20Kuhn-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
