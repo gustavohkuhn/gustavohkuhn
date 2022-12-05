@@ -57,9 +57,9 @@
 <a href="https://api.whatsapp.com/send?phone=5548920006055&text=Ol%C3%A1,%20tudo%20bem?%20Peguei%20seu%20contato%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA." target="_blank">
   <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
 </a>
-<a href="https://discord.com/channels/@me/658806176347324416" target="_blank">
+<!-- <a href="https://discord.com/channels/@me/gstv#5275" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="discord"/>
-</a>
+</a> -->
 <a href="https://instagram.com/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
