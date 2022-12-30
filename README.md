@@ -1,5 +1,5 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gustavohkuhn/c02897a2b03eaac4c28b075d1c34a837/raw/268fb1dd9dba67736aa503d6833837e821be0dec/githubcard.svg"/> -->
-<h1 align="left">Sobre mim...</h1>
+<h1 align="left">Gustavo Henrique Kuhn</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=yellow" alt="Profile views" /> </p> -->
 
 - 🔥 Desenvolvedor Front-End.
