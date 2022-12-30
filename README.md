@@ -1,5 +1,5 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gustavohkuhn/c02897a2b03eaac4c28b075d1c34a837/raw/268fb1dd9dba67736aa503d6833837e821be0dec/githubcard.svg"/> -->
-<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Henrique Kuhn</h1>
+<h1 align="left">Sobre mim...</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Front-End.
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## 🚀 &nbsp;What Estou aprendendo
+## 🚀 &nbsp;Estou aprendendo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
