@@ -1,18 +1,17 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gustavohkuhn/c02897a2b03eaac4c28b075d1c34a837/raw/268fb1dd9dba67736aa503d6833837e821be0dec/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gustavo Henrique Kuhn</h1>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gustavohkuhn/c02897a2b03eaac4c28b075d1c34a837/raw/268fb1dd9dba67736aa503d6833837e821be0dec/githubcard.svg"/> -->
+<h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Gustavo Henrique Kuhn</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Front-End React Developer and Mobile Developer.
+- 🔥 Desenvolvedor Front-End.
 
-- 🔭 I’m currently learning JavaScript, TypeScript, React and UI/UX Design! 
+- 🔭 Atualmente estou aprendendo JavaScript, TypeScript, React e UI/UX Design!
 
-- 🎓 Studying Systems Analysis and Development at UNIVALI | OneBitCode | Origamid | Front-End Engineer at EBAC – Escola Britânica de Artes Criativas e Tecnologia.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVALI | OneBitCode | Origamid | Engenheiro Front-End na EBAC – Escola Britânica de Artes Criativas e Tecnologia.
 
-- 🎯 Agile methods lover, my interests are focused on clean architecture, clean code and scalability. My daily front-end goal is to deliver an unforgettable UX, prioritizing design, browser performance and SEO.
+- 🎯 Amante de métodos ágeis, meus interesses são focados em arquitetura limpa, código limpo e escalabilidade. Meu objetivo diário de front-end é entregar um UX inesquecível, priorizando design, desempenho e SEO.
 
-- 🎂 Age: 22 years old.
+- 🎂 22 anos
 
-- ⚡ Fun fact: **L2 😜**
 <br>
 
 
@@ -27,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## 🚀 &nbsp;What I'm learning
+## 🚀 &nbsp;What Estou aprendendo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
@@ -45,7 +44,7 @@
 <br> -->
 
 
-## Contact
+## Contato
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
