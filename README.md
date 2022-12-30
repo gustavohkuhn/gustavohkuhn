@@ -36,13 +36,13 @@
 <br>
 
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavohkuhn&show_icons=true&theme=vision-friendly-dark" alt="gustavohkuhn stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohkuhn&layout=compact&theme=vision-friendly-dark" alt="gustavohkuhn most languages"/>
 </p>
-<br>
+<br> -->
 
 
 ## Contact
