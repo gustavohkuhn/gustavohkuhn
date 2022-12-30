@@ -2,20 +2,6 @@
 <h1 align="left">Sobre mim...</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=yellow" alt="Profile views" /> </p> -->
 
-## Contato
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="mailto:gustavohk.dev@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-<a href="https://api.whatsapp.com/send?phone=5548920006055&text=Ol%C3%A1,%20tudo%20bem?%20Peguei%20seu%20contato%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA." target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
-</a>
-</p>
-
 - 🔥 Desenvolvedor Front-End.
 
 - 🔭 Atualmente estou aprendendo JavaScript, TypeScript, React e UI/UX Design!
@@ -48,6 +34,19 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br>
 
+## Contato
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="mailto:gustavohk.dev@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
+<a href="https://api.whatsapp.com/send?phone=5548920006055&text=Ol%C3%A1,%20tudo%20bem?%20Peguei%20seu%20contato%20no%20GitHub%20e%20gostaria%20de%20conversar%20com%20voc%C3%AA." target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="whatsapp"/>
+</a>
+</p>
 
 <!-- ## ⚙️ &nbsp;GitHub Analytics
 
