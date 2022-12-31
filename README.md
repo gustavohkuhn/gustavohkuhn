@@ -36,7 +36,7 @@
 
 ## Contato
 
-Sinta-se à vontade para entrar em contato comigo:
+Sinta-se à vontade para entrar em contato comigo
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
