@@ -2,13 +2,13 @@
 <h1 align="left">Gustavo Henrique Kuhn</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Desenvolvedor Front-End.
+- 🔥 Desenvolvedor Front End.
 
 - 🔭 Atualmente estou aprendendo JavaScript, TypeScript, React e UI/UX Design!
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVALI | OneBitCode | Origamid | Engenheiro Front-End na EBAC – Escola Britânica de Artes Criativas e Tecnologia.
 
-- 🎯 Amante de métodos ágeis, meus interesses são focados em arquitetura limpa, código limpo e escalabilidade. Meu objetivo diário de front-end é entregar um UX inesquecível, priorizando design, desempenho e SEO.
+- 🎯 Amante de métodos ágeis, meus interesses são focados em código limpo e escalabilidade. Meu objetivo diário de Front-End é entregar um UX inesquecível, priorizando design, desempenho e SEO.
 
 - 🎂 22 anos
 
