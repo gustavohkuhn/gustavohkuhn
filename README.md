@@ -15,7 +15,7 @@
 <br>
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Tecnologias/Ferramentas Que Possuo Conhecimento
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## 🚀 &nbsp;Estou aprendendo
+## 🚀 &nbsp;Estou Aprendendo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
@@ -35,6 +35,8 @@
 <br>
 
 ## Contato
+
+Sinta-se à vontade para entrar em contato comigo:
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
