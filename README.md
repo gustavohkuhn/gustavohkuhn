@@ -10,7 +10,7 @@
 
 - 🎯 Amante de métodos ágeis, meus interesses são focados em código limpo e escalabilidade. Meu objetivo diário de Front-End é entregar um UX inesquecível, priorizando design, desempenho e SEO.
 
-- 🎂 22 anos
+- 🎂 23 anos
 
 <br>
 
