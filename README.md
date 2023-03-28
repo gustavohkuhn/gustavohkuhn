@@ -8,7 +8,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVALI | OneBitCode | Origamid | Engenheiro Front-End na EBAC – Escola Britânica de Artes Criativas e Tecnologia.
 
-- 🎯 Amante de métodos ágeis, meus interesses são focados em código limpo e escalabilidade. Meu objetivo diário de Front-End é entregar um UX inesquecível, priorizando design, desempenho e SEO.
+- 🎯 Meu objetivo diário de Front-End é entregar um UX inesquecível, priorizando design, desempenho, SEO e sempre buscando construir sistemas escaláveis.
 
 - 🎂 23 anos
 
