@@ -56,4 +56,4 @@ Sinta-se à vontade para entrar em contato comigo
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohkuhn&layout=compact&theme=vision-friendly-dark" alt="gustavohkuhn most languages"/>
 </p>
 <br> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=black" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=purple" alt="Profile views" /> </p>
