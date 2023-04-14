@@ -1,20 +1,20 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/gustavohkuhn/c02897a2b03eaac4c28b075d1c34a837/raw/268fb1dd9dba67736aa503d6833837e821be0dec/githubcard.svg"/> -->
 <h1 align="left">Gustavo Henrique Kuhn</h1>
 
-- 🔥 Desenvolvedor Front End.
+- 🔥 Front End Developer.
 
-- 🔭 Atualmente estou aprendendo JavaScript, TypeScript, React e UI/UX Design!
+- 🔭 Currently learning JavaScript, TypeScript, React, and UI/UX Design!
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVALI | OneBitCode | Origamid | Engenheiro Front-End na EBAC – Escola Britânica de Artes Criativas e Tecnologia.
+- 🎓 Studying Systems Analysis and Development at UNIVALI, Front-End Engineer at EBAC, JavaScript Full Stack Developer at OneBitCode, Specialization in Front-End Developer - UX/UI Designer at Origamid.
 
-- 🎯 Meu objetivo diário de Front-End é entregar um UX inesquecível, priorizando design, desempenho, SEO e sempre buscando construir sistemas escaláveis.
+- 🎯 My daily Front-End goal is to deliver an unforgettable UX, prioritizing design, performance, SEO, and always seeking to build scalable systems.
 
-- 🎂 23 anos
+- 🎂 23 years old.
 
 <br>
 
 
-## 🛠 &nbsp; Tecnologias/Ferramentas Que Possuo Conhecimento
+## 🛠 &nbsp; Technologies/Tools That I Have Knowledge
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -25,7 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## 🚀 &nbsp;Estou Aprendendo
+## 🚀 &nbsp;I am learning
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=Typescript)&nbsp;
@@ -33,9 +33,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br>
 
-## Contato
+## ⚙️ &nbsp;GitHub Analytics
 
-Sinta-se à vontade para entrar em contato comigo
+<p align="left">
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=gustavohkuhn&show_icons=true&theme=vision-friendly-dark" alt="gustavohkuhn stats"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohkuhn&layout=compact&theme=vision-friendly-dark" alt="gustavohkuhn most languages"/>
+</p>
+
+## Contact
+
+Feel free to get in touch with me
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
@@ -49,11 +56,5 @@ Sinta-se à vontade para entrar em contato comigo
 </a>
 </p>
 
-<!-- ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavohkuhn&show_icons=true&theme=vision-friendly-dark" alt="gustavohkuhn stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohkuhn&layout=compact&theme=vision-friendly-dark" alt="gustavohkuhn most languages"/>
-</p>
-<br> -->
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohkuhn&color=blueviolet" alt="Profile views" /> </p>
