@@ -1,16 +1,16 @@
 <h1 align="left">Gustavo Kuhn</h1>
 
-- 🔥 Front End Developer.
+- 🔥 Desenvolvedor Front-End.
 
-- 🔭 Currently learning JavaScript, TypeScript, React, and UI/UX Design!
+- 🔭 Atualmente aprendendo JavaScript, TypeScript, React e UI/UX Design!
 
-- 🎓 Studying Systems Analysis and Development at UNIVALI, Front-End Engineer at EBAC, JavaScript Full Stack Developer at OneBitCode, Specialization in Front-End Developer - UX/UI Designer at Origamid.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVALI, Engenheiro Front-End na EBAC, Desenvolvedor JavaScript Full Stack na OneBitCode, Especialização em Desenvolvedor Front-End - UX/UI Designer na Origamid.
 
-- 🎯 My daily Front-End goal is to deliver an unforgettable UX, prioritizing design, performance, SEO, and always seeking to build scalable systems.
+- 🎯 Meu objetivo Front-End diário é entregar uma UX inesquecível, priorizando design, performance, SEO, e buscando sempre construir sistemas escaláveis.
 
-- 🎂 23 years old.
+- 🎂 23 anos.
 
-## 🛠 &nbsp; Technologies/Tools
+## 🛠 &nbsp; Tecnologias/Ferramentas
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🚀 &nbsp;I am learning
+## 🚀 &nbsp; Estou aprendendo
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,9 +41,9 @@
 </details>
   
 ---  
-  ## Contact
+  ## Contato
 
-Feel free to get in touch with me.
+Sinta-se à vontade para entrar em contato comigo.
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/gustavo-kuhn" target="_blank">
@@ -57,7 +57,3 @@ Feel free to get in touch with me.
 </a>
 </p>
   
-
-  
-<!-- ---
-<img src="https://imgur.com/rilHVxA.png"/> -->
