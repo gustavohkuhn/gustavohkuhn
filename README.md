@@ -6,9 +6,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIVALI, Engenheiro Front-End na EBAC, Desenvolvedor JavaScript Full Stack na OneBitCode, Especialização em Desenvolvedor Front-End - UX/UI Designer na Origamid.
 
-- 🎯 Meu objetivo Front-End diário é entregar uma UX inesquecível, priorizando design, performance, SEO, e buscando sempre construir sistemas escaláveis.
-
-- 🎂 23 anos.
+- 🎂 24 anos.
 
 ## 🛠 &nbsp; Tecnologias/Ferramentas
 
