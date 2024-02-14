@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Gustavo 👨‍💻</h1>
+<h1 align="center">Hi, there👋 I'm Gustavo 👨‍💻</h1>
 
 - 🔥 Node.js Back-End Developer
 - 🎓 Systems Development Analyst Student
